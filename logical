@@ -21,5 +21,14 @@ Various USB adapters/devices
 USB sticks with
 	- your malware set - to verify proper functioning of anti-malware solutions
 	- bootable kali
+	- your testing script(s)
 	
 Ethernet switch or hub
+
+Use https://github.com/dietersar/CheckNessusAuthScan to verify whether Authenticated Nessus Scans will work
+
+Remote access tools
+- RDP client (default on windows - make sure to have one installed on Linux)
+- VNC viewer
+- RAdmin client
+- TeamViewer client
