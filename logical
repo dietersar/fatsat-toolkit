@@ -1,1 +1,25 @@
+Tools to perform or enhance Logical network testing during FAT/SAT tests
+========================================================================
 
+Various cables
+	- Ethernet network cables (various lengths)
+	- Various USB cables - be able to connect to all them serial ports
+	  Type A or C to 
+		+ type A male/female
+		+ type B male/female
+		+ mini-A / mini-B
+		+ micro-A / micro-B
+	- Serial extention cable ("cisco" cables are usefull here)
+
+Various USB adapters/devices
+	- USB to Serial
+	- USB to Ethernet
+		+ with 2 ethernet interfaces => can be used for bridging
+	- USB keyboard (preferably with an embedded touchpad and USB port extenders)
+	
+	
+USB sticks with
+	- your malware set - to verify proper functioning of anti-malware solutions
+	- bootable kali
+	
+Ethernet switch or hub
